@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Freight & Logistics System",
+  "description": "Premier Indian transportation and road logistics company. Providing reliable nationwide full truckload (FTL), express freight, and commercial logistics services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
